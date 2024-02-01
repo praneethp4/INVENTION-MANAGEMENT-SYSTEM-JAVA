@@ -6,3 +6,12 @@ The main aim of this project is to develop a system which helps to manage all th
 
 ## Class Diagram
 ![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-JAVA/assets/123055147/74bf84a1-c973-4fe1-a78a-194834194a7d)
+
+## Functionality
+### 1. User:  
+•	User needs to register with system and login with the valid credentials. He can nominate for the invention and can view the details of the invention. 
+•	User can also insert details of the invention 
+### 2. Jury 
+• Jury registers and login to the system and can give verdict for the invention based on the nominations. 
+### 3. Admin 
+• Admin updates the info of the user, inventor, and jury. 
